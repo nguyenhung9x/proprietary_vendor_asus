@@ -508,10 +508,12 @@ PRODUCT_COPY_FILES += \
     vendor/asus/T00F/proprietary/lib/libsepdrm.so:system/lib/libsepdrm.so \
     vendor/asus/T00F/proprietary/lib/libsepipt.so:system/lib/libsepipt.so \
     vendor/asus/T00F/proprietary/lib/libstock_crypto.so:system/lib/libstock_crypto.so \
+    vendor/asus/T00F/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/asus/T00F/proprietary/lib/libsvml.so:system/lib/libsvml.so \
     vendor/asus/T00F/proprietary/lib/libtbd.so:system/lib/libtbd.so \
     vendor/asus/T00F/proprietary/lib/libtcs.so:system/lib/libtcs.so \
     vendor/asus/T00F/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
+    vendor/asus/T00F/proprietary/lib/libtinycompress.so:system/lib/libtinycompress.so \
     vendor/asus/T00F/proprietary/lib/libwidiedid.so:system/lib/libwidiedid.so \
     vendor/asus/T00F/proprietary/lib/libwidimediasink.so:system/lib/libwidimediasink.so \
     vendor/asus/T00F/proprietary/lib/libwidimedia.so:system/lib/libwidimedia.so \
@@ -522,6 +524,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/T00F/proprietary/lib/libwidiuibc.so:system/lib/libwidiuibc.so \
     vendor/asus/T00F/proprietary/lib/libxditk_AT.so:system/lib/libxditk_AT.so \
     vendor/asus/T00F/proprietary/lib/libxditk_ISP.so:system/lib/libxditk_ISP.so \
+    vendor/asus/T00F/proprietary/lib/pvr_drv_video.so:system/lib/pvr_drv_video.so \
     vendor/asus/T00F/proprietary/lib/parameter-framework-plugins/Audio/libaudience-subsystem.so:system/lib/parameter-framework-plugins/Audio/libaudience-subsystem.so \
     vendor/asus/T00F/proprietary/lib/parameter-framework-plugins/Audio/libimc-subsystem.so:system/lib/parameter-framework-plugins/Audio/libimc-subsystem.so \
     vendor/asus/T00F/proprietary/lib/parameter-framework-plugins/Audio/liblpe-subsystem.so:system/lib/parameter-framework-plugins/Audio/liblpe-subsystem.so \
